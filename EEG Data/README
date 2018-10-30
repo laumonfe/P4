@@ -1,0 +1,3 @@
+
+This folder contains multiple samples of raw EEG data, which should be put into Process_Data.m, 
+make sure that when doing so, the data and the matlab file are in the same directory. 
