@@ -1,0 +1,5 @@
+
+
+This folder contains the coordinates in 3D space of the end effector after 10 trials when controlled by 5 different people. 
+
+The matlab file is just plotting this data for visual purposes. 
